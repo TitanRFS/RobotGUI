@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b1be4f7-7521-4499-8ca9-938c44886ad2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VDM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aircraft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Airport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExpressionInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InvariantCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PatientRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RobotGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestableInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VDM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VDMException1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VDMException2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VDMSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VDMToken.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2fVjASVYL61HbQVH1zuBvvmfvja" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/giann/Desktop&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b1be4f7-7521-4499-8ca9-938c44886ad2" name="Changes" comment="" />
+      <created>1713892998742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713892998742</updated>
+      <workItem from="1713892999790" duration="4081000" />
+      <workItem from="1714081650632" duration="4843000" />
+      <workItem from="1714090924604" duration="909000" />
+      <workItem from="1715700228670" duration="1256000" />
+      <workItem from="1715701572623" duration="749000" />
+      <workItem from="1715704296741" duration="7439000" />
+      <workItem from="1715788198690" duration="703000" />
+      <workItem from="1716315324822" duration="363000" />
+      <workItem from="1716315759788" duration="76000" />
+      <workItem from="1716315943273" duration="910000" />
+      <workItem from="1716316874512" duration="712000" />
+      <workItem from="1716817917918" duration="492000" />
+      <workItem from="1716933468390" duration="38000" />
+      <workItem from="1716933531633" duration="53000" />
+      <workItem from="1716933590357" duration="8000" />
+      <workItem from="1720696942738" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/VDM$RobotGUI.ic" NAME="RobotGUI Coverage Results" MODIFIED="1715710715837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
